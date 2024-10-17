@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Bai14 {
     public static void main(String[] args) {
-       int dinhMuc, vuotDinhMuc, chiSoMoi,chiSoCu;
-       double tongTien,tienDinhMuc = 0,tienVuotDinhMuc = 0;
+       int dinhMuc, vuotDinhMuc, chiSoMoi, chiSoCu;
+       double tongTien,tienDinhMuc = 0, tienVuotDinhMuc = 0;
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập vào chỉ số cũ: ");
