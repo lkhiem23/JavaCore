@@ -15,6 +15,7 @@ public class Bai01 {
         address = sc.nextLine();
         System.out.print("Nhập lương: ");
         salary = sc.nextDouble();
+        sc.nextLine();
     }
 
     public void view(){
