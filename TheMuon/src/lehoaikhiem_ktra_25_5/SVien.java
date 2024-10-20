@@ -65,6 +65,7 @@ public class SVien {
         this.maSV = scanner.nextLine();
         System.out.println("Nhập họ tên :");
         this.hoTen = scanner.nextLine();
+        
         while(true){
             try{
                 System.out.println("Nhập năm sinh :");
