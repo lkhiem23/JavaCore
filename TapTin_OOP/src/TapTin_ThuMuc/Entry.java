@@ -27,7 +27,7 @@ public class Entry {
         documentsThuMuc.addFile(resumeFile);
         systemThuMuc.addFile(programFile);
 
-        System.out.println("Cau truc thu muc:");
+        System.out.println("Cau truc thu muc: ");
         rootThuMuc.displayStructure("");
 
         System.out.println("\nTong dung luong cua thu muc tai lieu: " + documentsThuMuc.getTotalSize() + " bytes");
