@@ -17,12 +17,12 @@ public class Array_2 {
     public static void main(String[] args) {
         int[] a = Input();
         
-        System.out.println("Mang vua nhap la:");
+        System.out.println("Mảng vừa nhập:");
         Print(a);
         
         // Sort array
         Arrays.sort(a);
-        System.out.println("\nMang da sap xep la:");
+        System.out.println("\n Mảng sau khi sắp xếp: :");
         Print(a);
         
         //Search element from array
