@@ -28,7 +28,7 @@ public class Array_2 {
         //Search element from array
         int position = Arrays.binarySearch(a, 3);
         if (position < 0){
-            System.out.println("\nKhong tim thay");
+            System.out.println("\n Không tìm thấy!");
         }else{
             System.out.println("\nTim thay o vi tri "+position);
         }
