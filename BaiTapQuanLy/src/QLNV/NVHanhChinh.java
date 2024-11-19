@@ -25,7 +25,6 @@ public class NVHanhChinh extends NhanVien{
     }
     
     public NVHanhChinh(){
-        
     }
 
     public int getSoNgayDilam() {
