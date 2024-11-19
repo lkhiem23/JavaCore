@@ -16,7 +16,7 @@ public class Bai14 {
 
             dinhMuc = chiSoMoi - chiSoCu;
             vuotDinhMuc = dinhMuc - 50;
-
+// TEST
             /*
             if (dinhMuc <= 50){
                 tienDinhMuc = dinhMuc * 230;
