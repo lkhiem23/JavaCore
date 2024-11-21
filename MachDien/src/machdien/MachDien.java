@@ -88,5 +88,5 @@ class Resistor {
 
     public void setChildResistors(Resistor[] childResistors) {
         this.childResistors = childResistors;
-    }   // TODO code application logic here
+    } 
 }
