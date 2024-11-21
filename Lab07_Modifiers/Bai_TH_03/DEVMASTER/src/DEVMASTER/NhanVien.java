@@ -8,7 +8,7 @@ public class NhanVien {
             int tham_nien_cong_tac = 8;
             double luong = TienLuong.luongCB(TienLuong.Bac_Cao_Dang,tham_nien_cong_tac);
         System.out.println("Lương của nhân viên: " + luong);
-        System.out.println("Phí bảo hiểm: "+ TienLuong.soTienBH(luong));
+        System.out.println("Phí bảo hiểm: " + TienLuong.soTienBH(luong));
         
     }
 }
