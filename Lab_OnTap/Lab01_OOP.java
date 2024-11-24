@@ -1,14 +1,13 @@
 public class Lab01_OOP {
     public static void main(String[] args) {
         Employee[] staff = new Employee[3];
-        staff[0] = new Employee("Harry", 30000);
+        staff[0] = new Employee("Khiem", 30000);
         staff[1] = new Employee("Harry", 30000);
         staff[2] = new Employee("Harry", 30000);
 
         for(inti = 0; i<staff.length;i++){
             Employee e = staff[i];
             System.out.println("name = " + e.getName());
-
         }
     }
 }
