@@ -59,8 +59,8 @@ public class Bai3 {
         }
     
 public static void main(String[] args) {
-        Bai3 employee1 = new Bai3("Nguyen Van Quan", "Giam doc", 1000000);
-        Bai3 employee2 = new Bai3("Tran Thi Nhon", "Nhan vien", 500000);
+        Bai3 employee1 = new Bai3("Le Hoai Khiem", "Giam doc", 1000000);
+        Bai3 employee2 = new Bai3("Nguyen Van A", "Nhan vien", 500000);
 
         System.out.println(employee1.xuat() + "\n");
         System.out.println(employee2.xuat());
